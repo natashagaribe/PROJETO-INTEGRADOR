@@ -1,5 +1,17 @@
+AULA 01 - CONCEITOS
 Algoritmo: Sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema. (Coodesh)
 Inteligência Artificial: Ramo da ciência da computação que estuda o desenvolvimento de sistemas computacionais com base no conhecimento sobre a inteligência humana. (Dicionário Priberam da Língua Portuguesa)
 Nuvem: Rede extensa de servidores remotos em todo o mundo, que armazenam e gerenciam dados, executam aplicativos e fornecem conteúdo e serviços como streaming de vídeo, webmail e software de produtividade de escritório pela internet. (Microsoft)
 Banco de Dados: Conjunto de objetos conhecidos que podem ser armazenados e que possuem um significado implícito, relacionados entre si. (Saraiva Educação) 
 Sistema Operacional: Software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de arquivos a programas de terceiros, estabelecendo a interface entre o dispositivo e o usuário. (Tecnoblog)
+
+AULA 02 - PESQUISA
+A relação entre a LGPD e os Data Centers no Brasil
+A Lei Geral de Proteção de Dados (LGPD), que entrou em vigor em setembro de 2020, estabelece diretrizes para o tratamento de dados pessoais, afetando diretamente como os Data Centers operam e garantem a segurança dos dados armazenados no Brasil.
+Para que suas operações estejam em conformidade com a LGPD, os Data Centers devem implementar medidas de segurança robustas para proteger os dados contra acessos não autorizados e vazamentos, formalizar contratos que especifiquem as responsabilidades e medidas de proteção de dados, considerar a segurança e a privacidade em todas as etapas do desenvolvimento e operação e garantir a proteção física e lógica dos ambientes onde os dados são armazenados.
+Os Data Centers estão sujeitos a auditorias e verificações para garantir a conformidade com a LGPD. Em caso de descumprimento das diretrizes, poderão enfrentar sanções administrativas que variam de advertências a multas de valores significativos.
+Formatos de arquivos de dados proprietários e abertos
+Formatos de arquivos de dados podem ser classificados como proprietários ou abertos, cada um com implicações significativas para a gestão e acessibilidade dos dados. 
+Os proprietários, como .xlsx da Microsoft ou .psd da Adobe, são controlados por uma empresa específica, oferecendo funcionalidades avançadas e uma integração otimizada com o software correspondente. No entanto, dependem de licenças e  enfrentam a dificuldade de interoperabilidade, limitando a flexibilidade e a acessibilidade dos dados a longo prazo.
+Já os abertos, como .jpg e .pdf, têm especificações publicamente disponíveis e são amplamente suportados por diferentes plataformas e softwares, o que facilita a troca de dados e reduz custos associados ao uso de programas específicos. 
+Em relação aos dados públicos, que são informações coletadas, geradas ou mantidas por entidades públicas, deve-se observar os princípios da transparência e acessibilidade, isto é, devem ser acessíveis ao público sem restrições significativas, para que qualquer pessoa possa consultá-los. Desse modo, é comum que se opte por formatos abertos, o que garante que a informação permaneça acessível e reutilizável ao longo do tempo, sem depender de ferramentas proprietárias ou de licenças.
