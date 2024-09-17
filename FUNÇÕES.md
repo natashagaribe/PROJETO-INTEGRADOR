@@ -16,17 +16,17 @@ FUNÇÃO INPUT
 ![image](https://github.com/user-attachments/assets/e0c41d06-9568-4a51-bd87-2b38d1b26542)
 ![image](https://github.com/user-attachments/assets/f956a1fe-7234-498f-8cfb-032187169ff4)
 
-1)Crie uma função que imprima as informações de três parâmetros: nome, idade, e cidade, de maneira formatada. Use os argumentos sep e end da função print( ) para organizar a saída.
+1) Crie uma função que imprima as informações de três parâmetros: nome, idade, e cidade, de maneira formatada. Use os argumentos sep e end da função print( ) para organizar a saída.
 
 ![image](https://github.com/user-attachments/assets/000ac620-84fe-486f-a00c-e810100f2056)
 
-2)Escreva uma função que peça ao usuário dois números e a operação desejada ('+', '-', '*' ou '/'). Sua função deve calcular e imprimir o resultado da operação especificada.
+2) Escreva uma função que peça ao usuário dois números e a operação desejada ('+', '-', '*' ou '/'). Sua função deve calcular e imprimir o resultado da operação especificada.
 
 ![image](https://github.com/user-attachments/assets/39533107-96ba-468a-b219-187eafaf64e1)
 ![image](https://github.com/user-attachments/assets/18cfca6e-f368-40ab-b669-5cc77b36fb5c)
 ![image](https://github.com/user-attachments/assets/1e5cde75-a3b4-4337-8298-c4b1a9a04d6c)
 
-3)Crie uma função que peça ao usuário para digitar itens de uma lista de compras, separados por vírgula. Armazene esses itens em uma lista e, ao final, imprima todos os itens em linhas separadas usando um laço.
+3) Crie uma função que peça ao usuário para digitar itens de uma lista de compras, separados por vírgula. Armazene esses itens em uma lista e, ao final, imprima todos os itens em linhas separadas usando um laço.
 
 ![image](https://github.com/user-attachments/assets/161bf37a-e8f0-44a1-8b9f-7ec0b4b25e65)
 ![image](https://github.com/user-attachments/assets/ba9d4587-96ee-4072-b9bc-1e25f63feb8a)
