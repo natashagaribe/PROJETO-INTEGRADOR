@@ -1,0 +1,142 @@
+Digite o nome do arquivo de registro: 
+Dados.csv
+
+Menu de Opções:
+1. Buscar clientes por parte do nome
+2. Listar números de casos de um cliente
+3. Detalhes de um caso
+4. Exibir despesa total
+5. Exibir receita total
+6. Caso com maior despesa
+7. Caso com maior receita
+8. Exportar dados de um cliente para arquivo
+9. Sair
+Escolha uma opção: 
+1
+Digite parte do nome do cliente: 
+Gomes
+
+Clientes encontrados:
+Eduardo Gomes
+
+Menu de Opções:
+1. Buscar clientes por parte do nome
+2. Listar números de casos de um cliente
+3. Detalhes de um caso
+4. Exibir despesa total
+5. Exibir receita total
+6. Caso com maior despesa
+7. Caso com maior receita
+8. Exportar dados de um cliente para arquivo
+9. Sair
+Escolha uma opção: 
+2
+Digite o nome completo do cliente: 
+Hugo Oliveira
+
+Casos do cliente Hugo Oliveira:
+32
+
+Menu de Opções:
+1. Buscar clientes por parte do nome
+2. Listar números de casos de um cliente
+3. Detalhes de um caso
+4. Exibir despesa total
+5. Exibir receita total
+6. Caso com maior despesa
+7. Caso com maior receita
+8. Exportar dados de um cliente para arquivo
+9. Sair
+Escolha uma opção: 
+3
+Digite o número do caso: 
+20
+
+Cliente: Cíntia Carvalho
+Despesa: 650.0
+Receita: 2100.0
+Diferença: 1450.0
+
+Menu de Opções:
+1. Buscar clientes por parte do nome
+2. Listar números de casos de um cliente
+3. Detalhes de um caso
+4. Exibir despesa total
+5. Exibir receita total
+6. Caso com maior despesa
+7. Caso com maior receita
+8. Exportar dados de um cliente para arquivo
+9. Sair
+Escolha uma opção: 
+4
+
+Despesa total: 49800.0
+
+Menu de Opções:
+1. Buscar clientes por parte do nome
+2. Listar números de casos de um cliente
+3. Detalhes de um caso
+4. Exibir despesa total
+5. Exibir receita total
+6. Caso com maior despesa
+7. Caso com maior receita
+8. Exportar dados de um cliente para arquivo
+9. Sair
+Escolha uma opção: 
+5
+
+Receita total: 142900.0
+
+Menu de Opções:
+1. Buscar clientes por parte do nome
+2. Listar números de casos de um cliente
+3. Detalhes de um caso
+4. Exibir despesa total
+5. Exibir receita total
+6. Caso com maior despesa
+7. Caso com maior receita
+8. Exportar dados de um cliente para arquivo
+9. Sair
+Escolha uma opção: 
+6
+
+Caso com maior despesa:
+Cliente: Hugo Oliveira
+Caso: 32
+Despesa: 2300
+Receita: 5400
+
+Menu de Opções:
+1. Buscar clientes por parte do nome
+2. Listar números de casos de um cliente
+3. Detalhes de um caso
+4. Exibir despesa total
+5. Exibir receita total
+6. Caso com maior despesa
+7. Caso com maior receita
+8. Exportar dados de um cliente para arquivo
+9. Sair
+Escolha uma opção: 
+8
+Digite o nome completo do cliente: 
+Sandro Ribeiro
+
+Dados do cliente Sandro Ribeiro exportados com sucesso.
+
+Menu de Opções:
+1. Buscar clientes por parte do nome
+2. Listar números de casos de um cliente
+3. Detalhes de um caso
+4. Exibir despesa total
+5. Exibir receita total
+6. Caso com maior despesa
+7. Caso com maior receita
+8. Exportar dados de um cliente para arquivo
+9. Sair
+Escolha uma opção: 
+9
+Saindo...
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
